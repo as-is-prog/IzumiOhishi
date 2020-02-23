@@ -1,0 +1,9 @@
+.vs/,nonar,noupdate
+.git/,nonar,noupdate
+.gitignore,nonar,noupdate
+.gitmodules,nonar,noupdate
+README.md,nonar,noupdate
+ghost/master/savedata.json,nonar,noupdate
+ghost/master/profile/nonar,noupdate
+shell/master/profile/nonar,noupdate
+shell/ssr/,nonar,noupdate

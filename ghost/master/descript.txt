@@ -1,0 +1,13 @@
+charset,Shift_JIS
+
+craftman,as-is-prog
+craftmanw,AS-IS
+craftmanurl,
+
+name,Ohishi_Izumi_Suki
+type,ghost
+
+sakura.name,êÚ
+kero.name,PC
+
+shiori,SHIOLINK.dll
